@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Marina
 ![](https://i.imgur.com/4llSTgM.png)
 
-I am a Cybersecurity Engineering student at @URJC, currently on my 3rd year but already working as an auditor at @S21sec. I love competing, and with my team La Hackoneta we play CaptureTheFlags internationally. 
+I am a Cybersecurity Engineering student at @URJC, currently on my 4th year, working as an auditor at @STRATESYS with 1 year of experience. I love competing, and with my team La Hackoneta we play CaptureTheFlags internationally. 
 
 Skills: PENTESTING / WEB AUDITING / PCI COMPLIANCE / ETHICAL HACKING
 
